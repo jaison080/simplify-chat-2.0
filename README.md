@@ -11,9 +11,13 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 **Database:** Mongo DB
 
-## Demo
+## Website Demo
 
-https://simplify-chat.herokuapp.com/
+Website Link : https://simplify-chat.herokuapp.com/
+
+## App Demo
+
+APK Link : https://bit.ly/SimplifyChat
 
 ## Run Locally
 
