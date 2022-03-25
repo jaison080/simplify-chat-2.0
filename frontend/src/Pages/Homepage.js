@@ -65,7 +65,7 @@ function Homepage() {
         borderWidth="1px"
       >
         <Text fontSize="2xl" fontFamily="Work sans">
-          By <a target ="blank" href="https://jaisondennis.netlify.app">Jaison Dennis</a>
+          By <a target ="blank" href="https://jaisondennis.netlify.app">Jaison</a>
         </Text>
       </Box>
     </Container>

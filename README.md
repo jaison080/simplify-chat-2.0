@@ -17,7 +17,7 @@ Website Link : https://simplify-chat.herokuapp.com/
 
 ## App Demo
 
-APK Link : https://bit.ly/SimplifyChat
+APK Link : https://bit.ly/Simplifychat
 
 ## Run Locally
 
