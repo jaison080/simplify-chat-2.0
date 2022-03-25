@@ -30,7 +30,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd mern-chat-app
+  cd simplify-chat-2.0
 ```
 
 Install dependencies
