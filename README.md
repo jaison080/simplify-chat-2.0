@@ -15,10 +15,6 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 Website Link : https://simplify-chat.herokuapp.com/
 
-## App Demo
-
-APK Link : https://bit.ly/Simplifychat
-
 ## Run Locally
 
 Clone the project
